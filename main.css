@@ -1,0 +1,22 @@
+body {
+	font-family: 'Bree Serif', serif;
+	background: #303633
+}
+
+.icon-top {
+	background: #587B7F
+}
+
+.icon-top a {
+	color: #303633;
+	font-size: 20px;
+	transition: color 400ms ease-in-out;
+}
+
+.icon-top a:hover {
+	color: darkgrey
+}
+
+.icon-top h5 {
+	color: #303633
+}
